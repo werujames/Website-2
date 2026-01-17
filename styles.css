@@ -28,7 +28,7 @@ a{
     font-weight: 800;
     padding: 2px 15px;
     display: inline-flex;
-    flex: auto;
+    flex: 1 1 1;
     flex-wrap: wrap;
     gap: 20px;
     padding-right: 10px;
@@ -617,4 +617,5 @@ pre code{
 .gap-10{
     gap: 10px;
 }
+
 
